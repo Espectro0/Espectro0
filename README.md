@@ -15,6 +15,3 @@ A person who likes to program discord bots, collaborate on projects and learn so
 
 ### Resources:
 > <p align="left"> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/> </a> </p>
-
-### Projects:
- - [:lizard: Shard Music](https://github.com/Shard-Bot) - Discord bot with sapphire framework, and [:dolphin: Keta](https://github.com/uSebazz/Keta) template.
